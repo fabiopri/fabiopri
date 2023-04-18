@@ -16,6 +16,8 @@ These are some **Python** libraries I work with:
 - Plotly
 - VectorBT (for backtesting and portfolio analysis)
 
+### Academic background
+
 In 2020, I completed a two-year specialization in Big Data, Data Science and Data Analytics at Unisinos, Brazil.
 
 I have a Bachelor's degree in Journalism (2005) and a PhD in Comparative Literature (2015), both at the Federal University of Rio Grande do Sul (UFRGS), Brazil.
