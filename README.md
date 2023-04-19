@@ -1,10 +1,10 @@
 # Fabio Prikladnicki
 
-### Quant and data analyst based in Porto Alegre (RS), Brazil
+### Journalist and data analyst based in Porto Alegre (RS), Brazil
 
-I'm a data analyst who found his true passion in finance.
+Hi! I'm a journalist studying data analysis for finance.
 
-These are some skills I'm mastering:
+These are some **skills** I'm mastering:
 - Backtesting of strategies based on technical indicators
 - Portfolio optimization
 - Stocks screening based on fundamental indicators
