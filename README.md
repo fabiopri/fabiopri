@@ -8,9 +8,8 @@ These are some **skills** I'm mastering:
 - Backtesting of strategies based on technical indicators
 - Portfolio optimization
 - Stocks screening based on fundamental indicators
--  And so on
 
-These are some **Python** libraries I work with:
+And these are some **Python** libraries I work with:
 - pandas
 - NumPy
 - Plotly
